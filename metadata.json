@@ -1,0 +1,6 @@
+{
+  "name": "Supabase 상담 서비스",
+  "description": "Supabase 데이터베이스 기반의 상담 제목 및 내용 작성 및 관리 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
